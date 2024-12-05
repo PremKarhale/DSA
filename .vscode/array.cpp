@@ -17,7 +17,7 @@ int main(){
         cout<<"place enter is invalid "<<endl;
 
     }
-    cout<<"enter the no to be inserted "<<endl;
+    cout<<"enter the no to be inserted :"<<endl;
     cin>>pos;
     for(int i=x-1;i>=n-1;i--){
         marks[i+1]=marks[i];
